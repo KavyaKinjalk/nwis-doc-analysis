@@ -5,15 +5,17 @@
 - **Measurements**: 279,230
 - **Stations**: 39,428
 
-## Clean Air Act Results
-- **Significant increases**: 18
-- **Significant decreases**: 60
-- **No change**: 15
+## Findings:
+1. **Clean Air Act Impact**: 
+   - 18 ecoregions show significant DOC **increases** post-1992
+   - 60 ecoregions show significant DOC **decreases** post-1992
+   - 15 ecoregions show no significant change
 
-## Long-term Trends
-- **Increasing**: 8
-- **Decreasing**: 32
-- **No trend**: 58
+2. **Long-term Trends**:
+   - 8 ecoregions show significant **increasing** trends
+   - 32 ecoregions show significant **decreasing** trends
+   - 58 ecoregions show no significant trend
+
 
 ## Ecoregions by Sample Count
 
@@ -118,18 +120,26 @@
 | Arctic Foothills... | 26 | 19 | 1.98 | -78.1% | -0.1399/yr | [Report](ecoregion_reports/Arctic_Foothills/Arctic_Foothills_report.md) |
 | Arctic Coastal Plain... | 25 | 18 | 6.25 | -2.3% | -0.0009/yr | [Report](ecoregion_reports/Arctic_Coastal_Plain/Arctic_Coastal_Plain_report.md) |
 
+### Methodology
+- **Analysis Period**: 1980-present
+- **Minimum Data Requirement**: 20 measurements per ecoregion
+- **Statistical Tests**: Mann-Whitney U test for pre/post comparisons, linear regression for trends
+- **Significance Level**: p < 0.05
+  
+### Largest Increases Post-CAA
+- **Eastern Cascades Slopes and Foothills**: +465.3% (1.70 → 9.61 mg/L)
+- **Texas Blackland Prairies**: +301.2% (0.80 → 3.21 mg/L)
+- **Atlantic Coastal Pine Barrens**: +254.5% (1.10 → 3.90 mg/L)
+- **Huron/Erie Lake Plains**: +196.5% (2.00 → 5.93 mg/L)
+- **Cross Timbers**: +147.1% (2.10 → 5.19 mg/L)
 
-## Top CAA Increases
-- **Eastern Cascades Slopes a**: +465.3%
-- **Texas Blackland Prairies**: +301.2%
-- **Atlantic Coastal Pine Bar**: +254.5%
-
-## Top CAA Decreases
-- **Southern and Baja Califor**: -87.5%
-- **Madrean Archipelago**: -83.8%
-- **Canadian Rockies**: -80.9%
-
-
+### Largest Decreases Post-CAA
+- **Southern and Baja California Pine-Oak Mountains**: -87.5% (8.80 → 1.10 mg/L)
+- **Madrean Archipelago**: -83.8% (8.50 → 1.38 mg/L)
+- **Canadian Rockies**: -80.9% (4.35 → 0.83 mg/L)
+- **Arctic Foothills**: -78.1% (8.10 → 1.77 mg/L)
+- **Bristol Bay-Nushagak Lowlands**: -72.2% (3.60 → 1.00 mg/L)
+  
 ---
 *Generated: 2025-08-14 09:55*
 *98 ecoregions analyzed*
